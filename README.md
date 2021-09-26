@@ -10,7 +10,7 @@
 <br/>
 
 <h2>
-  Distributed Compute Labs - Tesseract Sponsor 🏆
+  Distributed Compute Labs - Tesseract Sponsor 🥳🏆🥳
 </h2>
 <ul>
   <li>
